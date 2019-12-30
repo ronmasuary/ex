@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ex/static/css/main.9a52309d.chunk.css",
+    "main.js": "/ex/static/js/main.9462625e.chunk.js",
+    "main.js.map": "/ex/static/js/main.9462625e.chunk.js.map",
+    "runtime-main.js": "/ex/static/js/runtime-main.53d31c66.js",
+    "runtime-main.js.map": "/ex/static/js/runtime-main.53d31c66.js.map",
+    "static/css/2.833dd627.chunk.css": "/ex/static/css/2.833dd627.chunk.css",
+    "static/js/2.89afa8bf.chunk.js": "/ex/static/js/2.89afa8bf.chunk.js",
+    "static/js/2.89afa8bf.chunk.js.map": "/ex/static/js/2.89afa8bf.chunk.js.map",
+    "index.html": "/ex/index.html",
+    "precache-manifest.1c3c26dbccd02b996868bc34003f741f.js": "/ex/precache-manifest.1c3c26dbccd02b996868bc34003f741f.js",
+    "service-worker.js": "/ex/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/ex/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.9a52309d.chunk.css.map": "/ex/static/css/main.9a52309d.chunk.css.map",
+    "static/media/flower.jfif": "/ex/static/media/flower.905e61f4.jfif",
+    "static/media/mountains.jfif": "/ex/static/media/mountains.3b18036e.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d31c66.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.89afa8bf.chunk.js",
+    "static/css/main.9a52309d.chunk.css",
+    "static/js/main.9462625e.chunk.js"
+  ]
+}
